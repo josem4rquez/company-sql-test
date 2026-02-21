@@ -9,7 +9,7 @@ insert into employee values ('John', 'B', 'Smith', 123456789, '1965-01-09'
 insert into employee values ('Miguel', 'T', 'Angelo', 333444555, '2000-02-20'
 , '139-Eldorado-TX', 'M', 10000, 123456789, 4),
 ('Gustavo', 'E', 'Campos', 787989100, '1978-07-08'
-, '270-Emboagaçu-TX', 'M', 14000, NULL, 9),
+, '270-Emboagaçu-TX', 'M', 14000, NULL, 787989100),
 							('Dalton', 'C', 'Mendes', 777888999, '1999-05-27'
 , '169-Jardim-Iguaçu-TX', 'M', 12000, 787989100, 7);
 
